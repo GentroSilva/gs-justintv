@@ -41,6 +41,7 @@
                     <excludes>
                         <include>src/license_header.txt</include>
                         <include>**/*.form</include>
+                        <include>**/*.json</include>
                         <include>**/META-INF/**</include>
                     </excludes>
                 </configuration>
